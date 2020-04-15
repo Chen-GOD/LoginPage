@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+div{
+    width:580px;
+    height:530px;
+    background-color:white;
+    /* text-align: center; */
+    padding:20px 30px;
+    margin:0 auto;
+    border-color: #25b8e2;
+    border-style: solid;
+    border-width: 25px 35px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#a9a9bc;
+    margin-left: 30px;
+    margin-top:20px;
+}
+
+.login_user{
+    width:90%;
+    height:8%;
+    background-image: url("login.gif");
+    background-position: 10px 10px;
+    display: block;
+    margin:0 auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.login_psw{
+    width:90%;
+    height:8%;
+    background-image: url("login.gif");
+    background-position: 10px -25px;
+    display: block;
+    margin:0 auto;
+    border-radius: 10px;
+}
+
+.login_jizhu{
+    margin-top: 30px;
+    margin-left: 30px;
+   
+}
+
+p{
+    width:90%;
+    height:8%;
+    background-color: #25b8e2;
+    margin-left: 30px;
+    margin-top:50px;
+    font-size: large;
+    text-align: center;
+    line-height: 42.4px;
+    color: white;
+    border-radius: 10px;
+}
